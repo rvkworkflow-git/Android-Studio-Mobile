@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android Studio Dark Theme Colors -->
+    <color name="dark_background">#FF2B2B2B</color>
+    <color name="dark_surface">#FF3C3F41</color>
+    <color name="dark_surface_variant">#FF313335</color>
+    <color name="dark_primary">#FF4A88C7</color>
+    <color name="dark_on_primary">#FFFFFFFF</color>
+    <color name="dark_on_background">#FFBBBBBB</color>
+    <color name="dark_on_surface">#FFBBBBBB</color>
+    <color name="dark_editor_bg">#FF2B2B2B</color>
+    <color name="dark_gutter_bg">#FF313335</color>
+    <color name="dark_toolbar_bg">#FF3C3F41</color>
+    <color name="dark_tab_active">#FF4E5254</color>
+    <color name="dark_tab_inactive">#FF3C3F41</color>
+    <color name="dark_border">#FF515151</color>
+    <color name="dark_tree_selection">#FF2D5F8A</color>
+    <color name="dark_terminal_bg">#FF1E1E1E</color>
+    <color name="dark_status_bar">#FF3C3F41</color>
+
+    <!-- Android Studio Light Theme Colors -->
+    <color name="light_background">#FFF5F5F5</color>
+    <color name="light_surface">#FFFFFFFF</color>
+    <color name="light_surface_variant">#FFF0F0F0</color>
+    <color name="light_primary">#FF4A88C7</color>
+    <color name="light_on_primary">#FFFFFFFF</color>
+    <color name="light_on_background">#FF000000</color>
+    <color name="light_on_surface">#FF000000</color>
+    <color name="light_editor_bg">#FFFFFFFF</color>
+    <color name="light_gutter_bg">#FFF0F0F0</color>
+    <color name="light_toolbar_bg">#FFF2F2F2</color>
+    <color name="light_tab_active">#FFFFFFFF</color>
+    <color name="light_tab_inactive">#FFEBEBEB</color>
+    <color name="light_border">#FFCCCCCC</color>
+    <color name="light_tree_selection">#FF3875D7</color>
+    <color name="light_terminal_bg">#FFFFFFFF</color>
+    <color name="light_status_bar">#FFF2F2F2</color>
+
+    <!-- Syntax Highlighting Colors (Darcula) -->
+    <color name="syntax_keyword">#FFCC7832</color>
+    <color name="syntax_string">#FF6A8759</color>
+    <color name="syntax_number">#FF6897BB</color>
+    <color name="syntax_comment">#FF808080</color>
+    <color name="syntax_annotation">#FFBBB529</color>
+    <color name="syntax_type">#FFA9B7C6</color>
+    <color name="syntax_function">#FFFFC66D</color>
+    <color name="syntax_variable">#FF9876AA</color>
+    <color name="syntax_operator">#FFA9B7C6</color>
+    <color name="syntax_error_underline">#FFFF0000</color>
+    <color name="syntax_xml_tag">#FFE8BF6A</color>
+    <color name="syntax_xml_attr">#FFBABABA</color>
+    <color name="syntax_xml_value">#FF6A8759</color>
+
+    <!-- Splash Screen -->
+    <color name="splash_bg">#FF2B2B2B</color>
+    <color name="splash_text">#FFFFFFFF</color>
+
+    <!-- Green Build Success -->
+    <color name="build_success">#FF6A8759</color>
+    <color name="build_error">#FFFF6B68</color>
+    <color name="build_warning">#FFBBB529</color>
+</resources>
